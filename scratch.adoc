@@ -1,0 +1,53 @@
+= Scratch Page
+
+Just some scratch stuff
+
+== Basic Formatting
+
+WARNING: Wolpertingers are known to neds in server racks. Enter at
+your risk.
+
+TIP: Yomama asdfasdf
+
+To leave means code dismemberment and certain death.
+
+I can't believe it, we *won* _won_!
+
+Type the world [userinput]#asciidoc# into the search bar
+
+== Special Symbols
+
+(C) SAP Labs India
+_Go with the Morning_(TM)
+a->b
+a =>  b
+
+\\
+
+a => c
+
+\(x < y\)
+
+== Lists
+. Protons
+. Electrons
+. Jesus
+
+[horizontal]
+cPU::
+      * Bingo
+      * Tringo
+      * Tringo
+      * Tringo
+      * Tringo
+
+== Math
+
+:stem: latexmath
+The fundamental theorem of calculus:
+
+\[
+   \frac{d}{dx}\int_0^x f(s)\,ds = f(x) g(x)
+\]
+
+stem:[sqrt(4) = 2]
